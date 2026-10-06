@@ -1,0 +1,9 @@
+{
+  "name": "relation-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An interactive graph maker and property checker for homogeneous binary relations.",
+  "scripts": {
+    "test": "node tests/relations.cjs"
+  }
+}
